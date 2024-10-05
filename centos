@@ -60,7 +60,7 @@ nano hosts
 
 #COREBABA
 [switch]
-10._.1.4
+10.51.1.4
 
 [switch:vars]
 ansible_user=admin
